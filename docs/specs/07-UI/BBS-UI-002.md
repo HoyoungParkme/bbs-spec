@@ -2,7 +2,7 @@
 doc_id: BBS-UI-002
 type: UI
 title: UI — 동아리 게시판 와이어프레임
-status: review
+status: approved
 upstream: [BBS-UI-001]
 ---
 
