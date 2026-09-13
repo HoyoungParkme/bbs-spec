@@ -1,0 +1,108 @@
+{
+  "backup_version": 2,
+  "comments": [
+    {
+      "at": "2026-09-13T08:25:34.649893+00:00",
+      "by": "HoyoungParkme",
+      "doc": "BBS-PRD-001",
+      "is_resolved": true,
+      "line_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_no": 1,
+      "original_location": null,
+      "parent": null
+    },
+    {
+      "at": "2026-09-13T08:25:34.695725+00:00",
+      "by": "HoyoungParkme",
+      "doc": "BBS-PRD-001",
+      "is_resolved": false,
+      "line_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_no": 1,
+      "original_location": null,
+      "parent": "2026-09-13T08:25:34.649893+00:00|HoyoungParkme"
+    }
+  ],
+  "flags": [
+    {
+      "assignee": "HoyoungParkme",
+      "cause": "BBS-RFQ-001#Q1",
+      "cause_version": "BBS-RFQ-001@5e2a2356460e27ea77ba1b4b48dee6d27a853ef8",
+      "kind": "needs_check",
+      "raised_at": "2026-09-13T08:22:34.312329+00:00",
+      "resolved_at": "2026-09-13T08:23:31.140702+00:00",
+      "resolved_by": "HoyoungParkme",
+      "resolved_with_edit": true,
+      "target": "BBS-PRD-001#G1",
+      "target_version": "BBS-PRD-001@a33c6b5129bc038c2fd9334e3907b8b57b441eba"
+    },
+    {
+      "assignee": "HoyoungParkme",
+      "cause": "BBS-RFQ-001#Q1",
+      "cause_version": "BBS-RFQ-001@5e2a2356460e27ea77ba1b4b48dee6d27a853ef8",
+      "kind": "needs_check",
+      "raised_at": "2026-09-13T08:22:34.318076+00:00",
+      "resolved_at": "2026-09-13T08:23:52.488689+00:00",
+      "resolved_by": "HoyoungParkme",
+      "resolved_with_edit": true,
+      "target": "BBS-PRD-001#R1",
+      "target_version": "BBS-PRD-001@a33c6b5129bc038c2fd9334e3907b8b57b441eba"
+    },
+    {
+      "assignee": "HoyoungParkme",
+      "cause": "BBS-RFQ-001#Q5",
+      "cause_version": null,
+      "kind": "broken_ref",
+      "raised_at": "2026-09-13T08:25:03.138597+00:00",
+      "resolved_at": null,
+      "resolved_by": null,
+      "resolved_with_edit": null,
+      "target": "BBS-PRD-001#R6",
+      "target_version": "BBS-PRD-001@7619efadcf6189665cf3ab8124d0a6d9f11fcfc2"
+    },
+    {
+      "assignee": "HoyoungParkme",
+      "cause": null,
+      "cause_version": "BBS-PRD-001@a33c6b5129bc038c2fd9334e3907b8b57b441eba",
+      "kind": "upstream_impact",
+      "raised_at": "2026-09-13T08:19:56.768732+00:00",
+      "resolved_at": null,
+      "resolved_by": null,
+      "resolved_with_edit": null,
+      "target": "BBS-RFQ-001#Q4",
+      "target_version": "BBS-RFQ-001@fbdea3bbbd8da110807b5c43da652a1c2298090c"
+    }
+  ],
+  "project": "BBS",
+  "propagation_decisions": [
+    {
+      "affected": [
+        "BBS-API-001#GET/api/posts",
+        "BBS-DOM-001#posts",
+        "BBS-SCN-001#S1",
+        "BBS-UC-001#UC-G1",
+        "BBS-UI-001#UI-1"
+      ],
+      "changed": [
+        "BBS-PRD-001#G1",
+        "BBS-PRD-001#R1"
+      ],
+      "choice": "skip",
+      "decided_at": "2026-09-13T08:23:52.602439+00:00",
+      "decided_by": "HoyoungParkme",
+      "version": "BBS-PRD-001@7619efadcf6189665cf3ab8124d0a6d9f11fcfc2"
+    },
+    {
+      "affected": [
+        "BBS-PRD-001#G1",
+        "BBS-PRD-001#R1"
+      ],
+      "changed": [
+        "BBS-RFQ-001#Q1"
+      ],
+      "choice": "propagate",
+      "decided_at": "2026-09-13T08:22:34.304203+00:00",
+      "decided_by": "HoyoungParkme",
+      "version": "BBS-RFQ-001@5e2a2356460e27ea77ba1b4b48dee6d27a853ef8"
+    }
+  ]
+}
