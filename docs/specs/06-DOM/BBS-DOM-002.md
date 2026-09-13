@@ -2,7 +2,7 @@
 doc_id: BBS-DOM-002
 type: DOM
 title: DOM — 동아리 게시판 도메인 모델
-status: draft
+status: review
 upstream: [BBS-UC-001]
 ---
 
