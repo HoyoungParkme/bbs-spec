@@ -2,7 +2,7 @@
 doc_id: BBS-PRD-001
 type: PRD
 title: PRD — 동아리 게시판
-status: review
+status: approved
 upstream: [BBS-RFQ-001]
 ---
 
