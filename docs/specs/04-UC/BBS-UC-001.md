@@ -2,7 +2,7 @@
 doc_id: BBS-UC-001
 type: UC
 title: UC — 동아리 게시판 유스케이스
-status: approved
+status: review
 upstream: [BBS-PRD-001, BBS-SCN-001]
 ---
 
@@ -149,3 +149,5 @@ upstream: [BBS-PRD-001, BBS-SCN-001]
 | [[#UC-A7]] | 운영자 | [[BBS-PRD-001#R6]] | [[BBS-SCN-001#S3]] |
 | [[#UC-S1]] | — | [[BBS-PRD-001#R2]] | — |
 | [[#UC-S2]] | — | [[BBS-PRD-001#R6]] | — |
+
+<!-- 고침 확인 -->
