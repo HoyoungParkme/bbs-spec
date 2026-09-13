@@ -2,7 +2,7 @@
 doc_id: BBS-MS-001
 type: MS
 title: MINISPEC — 동아리 게시판
-status: review
+status: approved
 upstream: [BBS-SEQ-001, BBS-DOM-003]
 ---
 
