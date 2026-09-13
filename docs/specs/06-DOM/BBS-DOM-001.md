@@ -3,7 +3,7 @@ doc_id: BBS-DOM-001
 type: DOM
 title: DOM — 동아리 게시판 ERD와 DD
 status: draft
-upstream: [BBS-DOM-002]
+upstream: [BBS-DOM-003]
 ---
 
 # DOM: 동아리 게시판 ERD와 DD
@@ -84,7 +84,7 @@ erDiagram
 | 컬럼 | 타입 | 제약 | 뜻 |
 |---|---|---|---|
 | id | int | PK | |
-| post_id | int | FK posts NOT NULL ON DELETE CASCADE | 글과 한 묶음. 근거: [[BBS-DOM-001#Comment]] |
+| post_id | int | FK posts NOT NULL ON DELETE CASCADE | 글과 한 묶음. 근거: [[BBS-DOM-002#Comment]] |
 | author_id | int | FK members NOT NULL | |
 | parent_id | int | FK comments null 허용 | null이면 원댓글 |
 | body | text | NOT NULL | |
