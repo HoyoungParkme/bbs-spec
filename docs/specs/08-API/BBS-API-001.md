@@ -2,7 +2,7 @@
 doc_id: BBS-API-001
 type: API
 title: API — 동아리 게시판 REST
-status: draft
+status: review
 upstream: [BBS-UI-001]
 ---
 
