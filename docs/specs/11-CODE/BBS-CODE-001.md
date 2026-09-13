@@ -2,7 +2,7 @@
 doc_id: BBS-CODE-001
 type: CODE
 title: CODE — 동아리 게시판 구현 슬라이스
-status: draft
+status: review
 upstream: [BBS-MS-001]
 ---
 
