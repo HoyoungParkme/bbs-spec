@@ -2,7 +2,7 @@
 doc_id: BBS-DOM-001
 type: DOM
 title: DOM — 동아리 게시판 ERD와 DD
-status: review
+status: approved
 upstream: [BBS-DOM-003]
 ---
 
