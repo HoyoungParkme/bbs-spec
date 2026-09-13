@@ -2,7 +2,7 @@
 doc_id: BBS-DOM-003
 type: DOM
 title: DOM — 동아리 게시판 클래스 명세
-status: review
+status: approved
 upstream: [BBS-DOM-002]
 ---
 
