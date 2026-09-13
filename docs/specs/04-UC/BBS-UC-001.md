@@ -2,7 +2,7 @@
 doc_id: BBS-UC-001
 type: UC
 title: UC — 동아리 게시판 유스케이스
-status: draft
+status: review
 upstream: [BBS-PRD-001, BBS-SCN-001]
 ---
 
