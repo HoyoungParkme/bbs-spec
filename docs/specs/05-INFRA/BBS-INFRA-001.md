@@ -2,7 +2,7 @@
 doc_id: BBS-INFRA-001
 type: INFRA
 title: INFRA — 동아리 게시판 인프라와 제약
-status: draft
+status: review
 upstream: [BBS-PRD-001]
 ---
 
