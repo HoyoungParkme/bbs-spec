@@ -2,7 +2,7 @@
 doc_id: BBS-UI-001
 type: UI
 title: UI — 동아리 게시판 화면 설계
-status: review
+status: approved
 upstream: [BBS-UC-001]
 ---
 
