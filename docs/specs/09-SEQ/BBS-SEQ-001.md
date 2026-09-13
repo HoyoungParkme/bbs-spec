@@ -2,7 +2,7 @@
 doc_id: BBS-SEQ-001
 type: SEQ
 title: SEQ — 동아리 게시판 시퀀스
-status: draft
+status: review
 upstream: [BBS-API-001, BBS-DOM-003]
 ---
 
