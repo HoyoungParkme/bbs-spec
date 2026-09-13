@@ -2,7 +2,7 @@
 doc_id: BBS-SCN-001
 type: SCN
 title: SCN — 동아리 게시판 시나리오
-status: review
+status: approved
 upstream: [BBS-PRD-001]
 ---
 
