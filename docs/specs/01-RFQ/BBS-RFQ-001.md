@@ -2,7 +2,7 @@
 doc_id: BBS-RFQ-001
 type: RFQ
 title: RFQ — 동아리 게시판
-status: approved
+status: review
 upstream: []
 ---
 
